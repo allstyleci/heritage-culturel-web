@@ -1,0 +1,4 @@
+git clone https://github.com/ton-nom-utilisateur/heritage-culturel-web.git
+cd heritage-culturel-web
+npm install
+npm run dev
